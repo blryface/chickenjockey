@@ -1,0 +1,10 @@
+{
+    "ambient.cave": {
+        "sounds": [
+            "ambient/cave/chickenjockey",
+            "ambient/cave/flintandsteel",
+            "ambient/cave/iamsteve",
+            "ambient/cave/jademow"
+        ]
+    }
+}
