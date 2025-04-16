@@ -4,7 +4,7 @@
 
 This resource pack adds new cave sounds to your game, taken directly from [A Minecraft Movie](https://en.wikipedia.org/wiki/A_Minecraft_Movie) (and the film's trailers).
 
-This resouce pack does **not** replace any existing cave sounds, so your encounters may be a little rare.
+This resource pack does **not** replace any existing cave sounds, so your encounters may be a little rare.
 
 ## Featured Sounds
 
